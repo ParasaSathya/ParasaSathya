@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Robotics Hardware**
+- 💬 Ask me about **Robotics**
 
 - 📫 How to reach me **sairm10056@gmail.com**
 
