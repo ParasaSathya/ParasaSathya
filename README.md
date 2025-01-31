@@ -1,20 +1,66 @@
-<h1 align="center">Hi 👋, I'm Parasa Sathya Sai Ram</h1>
-<h3 align="center">A passionate Robotics Engineer from India</h3>
+<h1 align="center">Hi there! 👋 I'm <span style="color: #4CAF50;">Parasa Sathya Sai Ram</span></h1>
+<h3 align="center">🚀 Robotics Engineer | Vehicle Testing Lead | ROS & AI Enthusiast 🤖</h3>
 
-- 🌱 I’m currently learning **C++**
-
-- 💬 Ask me about **Robotics**
-
-- 📫 How to reach me **sairm10056@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parasa-sathya-sai-ram-8989851a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parasa-sathya-sai-ram-8989851a3" height="30" width="40" /></a>
-<a href="https://fb.com/parasa.sathyasairam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parasa.sathyasairam" height="30" width="40" /></a>
-<a href="https://instagram.com/parasa.sathyasairam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parasa.sathyasairam" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Robotics Animation">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+---
+
+### 🌟 About Me:
+- 🔭 Currently working as a **Robotics Engineer at Boson Motors**, integrating hardware and developing advanced ROS-based prototypes for electric vehicles.
+- 🚗 Managing **vehicle testing**, ensuring precise system integration and reliable EV performance.
+- 🤖 Passionate about **ROS, Behavior Trees, and AI-driven automation**.
+- 🛠️ Worked on **Waypoint Navigation, Nav2, and BALM (Bundle Adjustment for Lidar Mapping)**.
+- 🛰️ Experienced in **NTRIP, RTK-GPS, and RTCM data handling** for precision mapping.
+- 📡 Built **custom NMEA sentence publishers**.
+- 🌱 Currently enhancing my expertise in **C++ and Behavior Trees for vehicle safety systems**.
+- 💬 Let's talk about **Robotics, AI, EVs, and Automation**.
+- 📫 Reach me at **[parasa.sathyasairam@gmail.com](mailto:parasa.sathyasairam@gmail.com)**.
+- ⚡ Fun fact: **I believe I’m hilariously funny, even if others disagree! 😄**
+
+---
+
+### 🛠️ Skills & Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++">
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV">
+  <img src="https://github.com/user-attachments/assets/70cee24c-0745-44f2-860b-fb8e7aa3dec7" alt="Qt">
+  <img src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="Grafana">
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud">
+  <img src="https://avatars.githubusercontent.com/u/547448?s=48&v=4" alt="ROS">
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino">
+</p>
+
+---
+
+### 📌 Key Projects:
+- 🚀 **Vehicle Safety System** – Implemented **Behavior Trees in C++** for autonomous safety decision-making.
+- 🗺️ **Waypoint Navigation** – Developed **Nav2-based GPS navigation** for autonomous EVs.
+- 🌍 **BALM (Lidar Mapping)** – Integrated **GPS & 3D LiDAR data** to build high-accuracy maps.
+- 🛰️ **RTK-GPS & NTRIP Setup** – Configured **onocoy.com NTRIP** server for precision localization.
+- 🔌 **EV Battery Data Collection** – Designed real-time **Battery State of Charge (SoC) monitoring**.
+
+---
+
+### 📌 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/parasa-sathya-sai-ram-8989851a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://fb.com/parasa.sathyasairam" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/parasa.sathyasairam" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+---
+
+### 🌐 Check Out My Work:
+<p align="left">
+  <a href="https://github.com/ParasaSathya" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+---
+
+<p align="center">💡 "Turning ideas into reality, one robot at a time!"</p>
