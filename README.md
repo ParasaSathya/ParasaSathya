@@ -13,7 +13,7 @@
 - 🤖 Passionate about **ROS, Behavior Trees, and AI-driven automation**.
 - 🛠️ Worked on **Waypoint Navigation, Nav2, and BALM (Bundle Adjustment for Lidar Mapping)**.
 - 🛰️ Experienced in **NTRIP, RTK-GPS, and RTCM data handling** for precision mapping.
-- 📡 Built **custom NMEA sentence publishers** and worked on **FixPosition driver projects**.
+- 📡 Built **custom NMEA sentence publishers**.
 - 🌱 Currently enhancing my expertise in **C++ and Behavior Trees for vehicle safety systems**.
 - 💬 Let's talk about **Robotics, AI, EVs, and Automation**.
 - 📫 Reach me at **[parasa.sathyasairam@gmail.com](mailto:parasa.sathyasairam@gmail.com)**.
