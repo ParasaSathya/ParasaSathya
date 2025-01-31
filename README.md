@@ -29,10 +29,10 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV">
-  <img src="https://img.icons8.com/plasticine/100/000000/qt.png" alt="Qt">
-  <img src="https://img.icons8.com/ios-filled/50/000000/grafana.png" alt="Grafana">
+  <img src="https://github.com/user-attachments/assets/70cee24c-0745-44f2-860b-fb8e7aa3dec7" alt="Qt">
+  <img src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" alt="Grafana">
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud">
-  <img src="https://img.icons8.com/color/48/000000/ros.png" alt="ROS">
+  <img src="https://avatars.githubusercontent.com/u/547448?s=48&v=4" alt="ROS">
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino">
 </p>
 
